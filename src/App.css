@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.form-inline .form-control {
+  width: 300px;
+}
+
+.middle {
+  width: 85%;
+}
+
+.spacing{
+  margin: 20px;
+}
